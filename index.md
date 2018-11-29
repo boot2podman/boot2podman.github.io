@@ -1,6 +1,6 @@
 # Boot2podman
 
-<video autoplay="autoplay" width="1024" height="768">
+<video width="1024" height="768">
     <source src="/assets/boot2podman.webm" type="video/webm">
 </video>
 
