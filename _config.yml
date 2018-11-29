@@ -1,6 +1,1 @@
 theme: jekyll-theme-slate
-defaults:
-  - scope:
-      path: "assets/images"
-    values:
-      image: true
