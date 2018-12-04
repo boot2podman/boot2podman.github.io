@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Boot Sequence"
+title:  "Boot Sequence Video"
 ---
 
 # Boot2podman boot sequence video
