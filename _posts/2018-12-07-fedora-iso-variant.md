@@ -48,11 +48,15 @@ Most are intended for clusters and Kubernetes, rather than just running Podman.
 
 This is a Linux distribution made with **BuildRoot**, and offers `machine` compatibility.
 
+It replaces the original `boot2docker.iso`, adding software and moving to `systemd`.
+
 _See:_ [https://kubernetes.io/docs/setup/minikube/](https://kubernetes.io/docs/setup/minikube/)
 
 ### Minishift
 
 Similar to `minikube`, but intended for running **OpenShift** rather than **Kubernetes**.
+
+It uses a different image based on CentOS, to replace the one made with BuildRoot.
 
 _See:_ [https://docs.okd.io/latest/minishift/getting-started/](https://docs.okd.io/latest/minishift/getting-started/)
 
