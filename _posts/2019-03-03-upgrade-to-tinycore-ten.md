@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Upgrade to Tiny Core Linux 10.0"
+author: afbjorklund
 ---
 
 # Upgrade to Tiny Core Linux 10.0

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Containers without Docker"
+author: afbjorklund
 ---
 
 # Containers with Docker

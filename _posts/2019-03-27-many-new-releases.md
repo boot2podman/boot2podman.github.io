@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Many New Releases"
+author: afbjorklund
 ---
 
 # Many New Releases
