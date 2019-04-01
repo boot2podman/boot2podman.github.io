@@ -35,3 +35,7 @@ The Kubernetes install (crio/k3s) is same size as the Podman install (podman/bui
 ## Source
 
 See <https://github.com/boot2podman/boot2podman/blob/master/building_kubernetes.md>
+
+## Legacy
+
+See <https://github.com/afbjorklund/docker-machine-minikube-install> (now obsolete, but...)
