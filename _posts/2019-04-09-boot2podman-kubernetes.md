@@ -8,7 +8,7 @@ author: afbjorklund
 
 Talk/Demo held at [FOSS North](http://foss-north.se) regarding Podman and Kubernetes (or "OCI with CRI")
 
-This was the short-short version of [the previous](2019-02-19-containers-without-docker.md), now with TCL 10.x and including crio/k3s.
+This was the short-short version of [the previous]({% post_url 2019-02-19-containers-without-docker %}), now with TCL 10.x and including crio/k3s.
 
 [![asciicast](https://asciinema.org/a/caIfEd2CsaLnBwzZXIdT1SFdX.svg)](https://asciinema.org/a/caIfEd2CsaLnBwzZXIdT1SFdX)
 
