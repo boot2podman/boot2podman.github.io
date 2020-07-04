@@ -41,6 +41,10 @@ QEMU/KVM on NUC
 
 <img alt="Intel NUC 10" src="/assets/nuc_10.jpg" width="480" />
 
+<https://www.redhat.com/en/topics/virtualization/what-is-virtualization>
+
+<https://www.intel.com/content/www/us/en/products/boards-kits/nuc.html>
+
 ## Smaller
 
 The third generation introduced a more server-like 64-bit processor.<br />
@@ -56,6 +60,8 @@ Raspberry Pi 3B
 
 <img alt="Raspberry Pi 3 Cluster" src="/assets/rpi_3b.jpg" width="480" />
 
+<https://thepihut.com/collections/raspberry-pi-store>
+
 ## Smallest
 
 The credit-card sized version Zero of the single-board ARM computer.<br />
@@ -70,6 +76,8 @@ Raspberry Pi 0W
 * 2 x Raspberry Pi Zero WH @ £12.80
 
 <img alt="Raspberry Pi 0 Cluster" src="/assets/rpi_0w.jpg" width="480" />
+
+<https://thepihut.com/collections/raspberry-pi-store>
 
 ----
 
