@@ -36,6 +36,8 @@ QEMU/KVM on NUC
 * Architecture: `amd64`
 
 £ 679.99 ($850) - _including cpu and memory_
+* 1 x Intel NUC 10 Kit, Frost Canyon, Core i5 @ £369.89
+* 2 x 4GB DDR4 @ £155.05
 
 <img alt="Intel NUC 10" src="/assets/nuc_10.jpg" width="480" />
 
@@ -49,6 +51,8 @@ Raspberry Pi 3B
 * Architecture: `arm64`
 
 £ 148.00 ($184) - _boards and case only_
+* 2 x Cluster Case for Raspberry Pi (with Fans) @ £10.00
+* 4 x Raspberry Pi 3 Model B @ £32.00
 
 <img alt="Raspberry Pi 3 Cluster" src="/assets/rpi_3b.jpg" width="480" />
 
@@ -62,6 +66,8 @@ Raspberry Pi 0W
 * Architecture: `armv6`
 
 £ 31.60 ($39) - _boards and case only_
+* 1 x Mini Cluster Case for Raspberry Pi Zero @ £6.00
+* 2 x Raspberry Pi Zero WH @ £12.80
 
 <img alt="Raspberry Pi 0 Cluster" src="/assets/rpi_0w.jpg" width="480" />
 
