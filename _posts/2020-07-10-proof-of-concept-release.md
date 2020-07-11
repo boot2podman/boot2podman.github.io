@@ -103,6 +103,12 @@ This was described further in some earlier posts on the topic:
 
 * [Lightweight Kubernetes]({% post_url 2019-03-31-lightweight-kubernetes %})
 
+As well as some other about software and hardware architecture:
+
+* [Three Sizes of Cluster]({% post_url 2020-07-03-three-sizes-cluster %})
+
+* [Three Sizes of Image]({% post_url 2019-06-09-three-sizes %})
+
 ## Future
 
 Some future development paths to be investigated further:
