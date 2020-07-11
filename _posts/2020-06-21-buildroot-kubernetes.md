@@ -62,7 +62,7 @@ But now also some advanced networking support (nat, bridge, conntrack, vxlan).
 
 The simple `init` system is replaced with the more complex `systemd` platform.
 
-There are still the docker programs (dockerd, containerd, runc, docker).
+There are still the docker programs (dockerd, containerd, docker).
 But now also with the kubernetes programs (kubeadm, kubelet, kubectl).
 
 <https://github.com/afbjorklund/buildroot4kubernetes>
