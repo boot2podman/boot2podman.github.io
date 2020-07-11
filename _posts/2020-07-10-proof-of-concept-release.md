@@ -31,6 +31,9 @@ It is similar to "boot2docker", but also adds kubernetes components:
 * Docker containerd (`containerd`)
 * Docker client (`docker`)
 
+* SSH server (`sshd`)
+* Bash shell (`bash`)
+
 * Kubernetes installer (`kubeadm`)
 * Kubernetes service (`kubelet`)
 * Kubernetes client (`kubectl`)
