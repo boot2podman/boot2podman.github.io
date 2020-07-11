@@ -38,8 +38,8 @@ It is similar to "boot2docker", but also adds kubernetes components:
 * Kubernetes service (`kubelet`)
 * Kubernetes client (`kubectl`)
 
-* CRI Container Runtime Interface tools (`crictl`)
-* CNI Container Network Interface plugins (`/opt/cni`)
+* CRI tools (`crictl`) - _Container Runtime Interface_
+* CNI plugins (`/opt/cni`) - _Container Network Interface_
 
 ## Docker Images
 
