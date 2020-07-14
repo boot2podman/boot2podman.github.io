@@ -47,6 +47,8 @@ QEMU/KVM on NUC
 
 Note: need to add a disk as well, either M.2 SSD or 2.5" HDD.
 
+* 512G SSD (2T HDD)
+
 ## Smaller
 
 The third generation introduced a more server-like 64-bit processor.<br />
@@ -66,6 +68,8 @@ Raspberry Pi 3B
 
 Note: Need to add a SD card for each, and power and network.
 
+* 32G SD
+
 ## Smallest
 
 The credit-card sized version Zero of the single-board ARM computer.<br />
@@ -84,6 +88,8 @@ Raspberry Pi 0W
 <https://thepihut.com/collections/raspberry-pi-store>
 
 Note: Need to add a SD card for each, and power (no network).
+
+* 32G SSD
 
 ----
 
