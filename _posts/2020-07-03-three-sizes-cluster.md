@@ -89,7 +89,7 @@ Raspberry Pi 0W
 
 Note: Need to add a SD card for each, and power (no network).
 
-* 32G SSD
+* 16G SSD
 
 ----
 
