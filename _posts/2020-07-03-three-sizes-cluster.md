@@ -35,9 +35,9 @@ QEMU/KVM on NUC
 * 2GB RAM per node
 * Architecture: `amd64`
 
-£ 679.99 ($850) - _including cpu and memory_
-* 1 x Intel NUC 10 Kit, Frost Canyon, Core i5 @ £369.89
-* 2 x 4GB DDR4 @ £155.05
+£ 441.97 ($555) - _including cpu and memory_
+* 1 x Intel NUC 10 Kit, Frost Canyon, Core i5 @ £369.98
+* 2 x 8GB Corsair Vengeance DDR4 SODIMM 2400MHz @ £71.99
 
 <img alt="Intel NUC 10" src="/assets/nuc_10.jpg" width="480" />
 
