@@ -44,7 +44,7 @@ Note that being part of this group allows running privileged containers:
 
 > Warning: The docker group grants privileges equivalent to the root user.
 
-It is also possible to run rootless containers, that is not the topic here.
+It is also possible to run rootless containers, but that is not the topic here.
 
 We assume that the user is already part of the sudoers without a password.
 
@@ -186,7 +186,7 @@ You currently **have** to supply the path of the unix socket, or it gets confuse
 
 `ssh: rejected: connect failed (open failed)`
 
-Note that podman uses CONTAINER_HOST and Containerfile, instead of "podman".
+Note that podman uses CONTAINER_HOST and Containerfile, and not "podman".
 
 ### Docker CLI
 
