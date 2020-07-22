@@ -77,7 +77,7 @@ SocketGroup=podman
 EOF
     systemctl daemon-reload
     echo "d /run/podman 0770 root podman" > /etc/tmpfiles.d/podman.conf
-    sudo systemd-tmpfiles --create
+    systemd-tmpfiles --create
 
     systemctl enable podman.socket
     systemctl start podman.socket
