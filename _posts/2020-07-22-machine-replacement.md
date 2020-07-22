@@ -38,6 +38,8 @@ This also means that we can use a unix socket, instead of a tcp port:
 
 We use ssh to access this socket remotely, rather than a separate port.
 
+The group means that we don't have to log in as root, but as normal user.
+
 ### Security
 
 Note that being part of this group allows running privileged containers:
