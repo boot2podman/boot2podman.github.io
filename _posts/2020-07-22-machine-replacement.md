@@ -135,7 +135,9 @@ vagrant ssh -c "docker info"
 
 ### Provider
 
-It is also possible to use the libvirt/kvm provider when running on Linux.
+By default vagrant uses the "virtualbox" provider, available on all platforms.
+
+It is also possible to use the "libvirt"/kvm provider when running on Linux.
 
 But you probably have to use the "generic" images, from the Vagrant Cloud:
 
