@@ -113,6 +113,6 @@ As well as some other about software and hardware architecture:
 
 Some future development paths to be investigated further:
 
-* Raspberry Pi Zero (`armv6`)
+* Raspberry Pi 2 (`armv7`)
 
 * Administration (like "machine")
