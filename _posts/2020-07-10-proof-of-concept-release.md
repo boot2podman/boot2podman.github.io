@@ -10,13 +10,13 @@ The early releases from the "buildroot4kubernetes" project are up:
 
 <https://github.com/afbjorklund/buildroot4kubernetes>
 
-* `amd64` (qemu_x86_64)
+* `amd64` (pc_x86_64_bios)
 * `arm64` (raspberrypi3_64)
 
 ## Release Files
 
 amd64:
-`buildroot.iso`
+`disk.img.gz`
 `images.iso`
 
 arm64:
