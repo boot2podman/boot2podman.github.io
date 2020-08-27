@@ -226,10 +226,23 @@ Vagrant.configure("2") do |config|
 end
 ```
 
-```shell
-export CONTAINER_HOST=ssh://vagrant@127.0.0.1:2222/run/user/1000/podman/podman.sock
-export CONTAINER_SSHKEY=$PWD/.vagrant/machines/default/virtualbox/private_key
-podman-remote --url $CONTAINER_HOST version
+```console
+$ export CONTAINER_HOST=ssh://vagrant@127.0.0.1:2222/run/user/1000/podman/podman.sock
+$ export CONTAINER_SSHKEY=$PWD/.vagrant/machines/default/virtualbox/private_key
+$ podman-remote --url $CONTAINER_HOST version
+Client:
+Version:      2.0.4
+API Version:  1
+Go Version:   go1.14.2
+Built:        Thu Jan  1 01:00:00 1970
+OS/Arch:      linux/amd64
+
+Server:
+Version:      2.0.4
+API Version:  0
+Go Version:   go1.14.6
+Built:        Thu Jan  1 01:00:00 1970
+OS/Arch:      linux/amd64
 ```
 
 ## Links
