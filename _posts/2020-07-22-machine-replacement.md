@@ -205,6 +205,33 @@ When using docker it is **not** supported to supply the path of the unix socket:
 
 The docker client doesn't support ssh identity, so the `ssh-agent` is used here.
 
+## Rootless
+
+To run a rootless podman socket as the user instead, you can use this setup:
+
+```ruby
+Vagrant.configure("2") do |config|
+  config.vm.box = "fedora/32-cloud-base"
+
+  config.vm.provider "virtualbox" do |vb|
+    vb.memory = "1024"
+  end
+
+  config.vm.provision "shell", privileged: false, inline: <<-SHELL
+    sudo yum install -y podman
+
+    systemctl enable --user podman.socket
+    systemctl start --user podman.socket
+  SHELL
+end
+```
+
+```shell
+export CONTAINER_HOST=ssh://vagrant@127.0.0.1:2222/run/user/1000/podman/podman.sock
+export CONTAINER_SSHKEY=$PWD/.vagrant/machines/default/virtualbox/private_key
+podman-remote --url $CONTAINER_HOST version
+```
+
 ## Links
 
 Previous information:
