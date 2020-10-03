@@ -36,3 +36,19 @@ and one for Kubernetes (booting from disk, just like the Raspberry Pi images)
 ```
 
 See [Proof-of-Concept Release]({% post_url 2020-07-10-proof-of-concept-release %})
+
+## NVIDIA GTC 2020
+
+Will again join the GPU Technology Conference, excited about NVIDIA and ARM.
+
+_Oct 5 - 9_
+
+<https://www.nvidia.com/en-us/gtc/>
+
+## KubeCon '20 NA Virtual
+
+Going straight for Slack and YouTube this time, same "sleepy" 12:00 schedule.
+
+_Nov 17 - 20_
+
+<https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/>
