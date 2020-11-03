@@ -11,6 +11,12 @@ hosted by Red Hat online (BlueJeans), Tue November 3rd 2020.
 
 <https://podman.io/community/meeting/>
 
+## Demos
+
+Docker Machine: <https://asciinema.org/a/366096>
+
+Podman Machine: <https://asciinema.org/a/366097>
+
 ## Links
 
 <https://github.com/boot2podman/boot2podman>
