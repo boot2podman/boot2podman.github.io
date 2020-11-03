@@ -17,6 +17,10 @@ hosted by Red Hat online (BlueJeans), Tue November 3rd 2020.
 
 <https://github.com/boot2podman/machine>
 
+* [Boot2Docker Deprecated]({% post_url 2020-07-05-boot2docker-deprecated %})
+
+* [Machine Replacement]({% post_url 2020-07-22-machine-replacement %})
+
 ## Previous Presentations
 
 * [Containers without Docker]({% post_url 2019-02-19-containers-without-docker %})
