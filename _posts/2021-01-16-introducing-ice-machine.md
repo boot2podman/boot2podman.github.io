@@ -6,16 +6,29 @@ author: afbjorklund
 
 # Introducing Ice Machine
 
-Both `docker-machine` and `podman-machine` are deprecated upstream, and not supporting the latest.
+Both `docker-machine` and `podman-machine` are now deprecated upstream,<br />
+and not supporting the latest version of the container engines anymore.
 
-The new Floe distribution will include a new simple version of `machine`, which will be called Ice.
+The new **Floe** distribution will include a new simple version of `machine`,<br />
+which will be called **Ice**. Initially it will support QEMU and VirtualBox.
+
+<img alt="Ice Cubes" src="/assets/ice-cubes.png" />
 
 
-Basically it's a simplified version, that only supports the newer versions of the virtual machine.
+It's a simplified version, that only supports the newer versions of the virtual machine.
 
-And it will _only_ connect using SSH, so it doesn't have the old complications of certs or varlink.
+And it will _only_ connect using SSH, so it doesn't need the old tcp tls certs or varlink.
 
+Eventually it might add some simplified version of the remote cloud support, as well.
 
 Expected to be available at the end of the month (Feb'21), after the FOSDEM conference.
 
+## Floe
+
+Replaces `boot2docker.iso` and `boot2podman.iso`, with a standard Linux distribution.
+
 See [Introducing Floe Linux]({% post_url _posts/2021-01-10-introducing-floe-linux %})
+
+----
+
+Image credit: <a href="http://www.freepik.com">Designed by macrovector / Freepik</a>
