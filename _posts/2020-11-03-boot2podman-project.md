@@ -9,6 +9,9 @@ author: afbjorklund
 A presentation for the Podman Community Meetup (podman.io)<br>
 hosted by Red Hat online (BlueJeans), Tue November 3rd 2020.
 
+It talked about the "rise and fall of" the boot2podman project...<br>
+And some background information about boot2docker, as well.
+
 <https://podman.io/community/meeting/>
 
 ## Demos
