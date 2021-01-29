@@ -9,6 +9,9 @@ author: afbjorklund
 Both `docker-machine` and `podman-machine` are now deprecated upstream,<br />
 and not supporting the latest version of the container engines anymore.
 
+* ~~<https://github.com/docker/machine>~~ (Docker 19.03, tcp + tlsverify)
+* ~~<https://github.com/boot2podman/machine>~~ (Podman 1.9.3, varlink)
+
 The new **Floe** distribution will include a new simple version of `machine`,<br />
 which will be called **Ice**. Initially it will support QEMU and VirtualBox.
 
