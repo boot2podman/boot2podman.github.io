@@ -40,6 +40,20 @@ Eventually it might add some simplified version of the remote cloud support, as 
 
 Expected to be available at the end of the month (Feb'21), after the FOSDEM conference.
 
+## SSH
+
+Using UNIX socket tunneled over SSH, for both of the container runtimes.
+
+```bash
+export DOCKER_HOST="ssh://tc@127.0.0.1:12345" # /var/run/docker.sock
+```
+
+```bash
+export CONTAINER_HOST="ssh://tc@127.0.0.1:12345/run/podman/podman.sock"
+```
+
+This means **not** having to bother with TLS certificates, just adding SSH keys.
+
 ## Floe
 
 Replaces `boot2docker.iso` and `boot2podman.iso`, with a standard Linux distribution.
