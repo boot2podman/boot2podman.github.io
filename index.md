@@ -1,3 +1,7 @@
+For Containers, see <https://floelinux.github.io>
+
+For Kubernetes, see <https://kutter-os.github.io>
+
 ## Posts
 
 <ul>
