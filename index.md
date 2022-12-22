@@ -1,6 +1,14 @@
-For Containers, see <https://floelinux.github.io>
+To replace `podman-machine` (and even Vagrant too),<br />
+look no further than **Lima**: <https://lima-vm.io>
 
-For Kubernetes, see <https://kutter-os.github.io>
+The context of this web site is mostly historical,<br />
+and the projects have been deprecated/discontinued...
+
+For Containers, see <https://floelinux.github.io><br />
+(a custom OS distribution based on Tiny Core Linux)
+
+For Kubernetes, see <https://kutter-os.github.io><br />
+(a custom OS distribution based on Buildroot system)
 
 ## Posts
 
